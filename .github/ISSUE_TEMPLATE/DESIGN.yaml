@@ -1,6 +1,6 @@
 name: Feature
 description: UI and code
-title: "[Feature]:"
+title: "[Design]:"
 projects: ["glokascom/1"]
 body:
   - type: textarea
